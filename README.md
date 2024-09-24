@@ -10,7 +10,7 @@ I'm currently exploring data visualization, cleaning, and analysis using tools l
 
 Here are a few of my recent data visualizations:
 
-- **[National Parks Visitor Analysis](National Parks visitor numbers 2021.png)**
+- **[National Parks Visitor Analysis](National_Parks_visitor_numbers_2021.png)**
 - More coming soon!
 
 Feel free to connect with me if you share an interest in data analytics or have opportunities for collaboration!
