@@ -10,9 +10,9 @@ I'm currently exploring data visualization, cleaning, and analysis using tools l
 
 Here are a few of my recent data visualizations:
 
-- **[National Parks Visitor Analysis](National Parks visitor numbers 2021.png)**
+- **[National Parks Visitor Analysis](National%20Parks%20visitor%20numbers%202021.png)**
 - More coming soon!
 
 Feel free to connect with me if you share an interest in data analytics or have opportunities for collaboration!
 
-📫 You can find me on [LinkedIn](www.linkedin.com/in/tatekjosness).
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/tatekjosness).
