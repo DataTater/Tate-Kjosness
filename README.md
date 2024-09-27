@@ -16,6 +16,7 @@ Here are a few of my recent data visualizations:
 - **[Bald Eagle Seasonality By National Park](https://github.com/DataTater/Tate-Kjosness/blob/main/Bald%20Eagle%20Seasonality%20By%20National%20Park.png)**
 - **[Contintenal US National Parks By Size](https://github.com/DataTater/Tate-Kjosness/blob/main/Contintenal%20US%20National%20Parks%20By%20Size.png)**
 - **[Correlation Between Wins and Offensive Yards in 2014 NCAA Football Season](https://github.com/DataTater/Tate-Kjosness/blob/main/Correlation%20Between%20Wins%20and%20Offensive%20Yards.png)**
+- **(Interactive Correlation Between Turnovers and Wins 2014 NCAA Football Season](https://013f4a26613840a6aeed08204257d55f.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fturnover_rank_vs_wins.html)**
 - More coming soon!
 
 Feel free to connect with me if you share an interest in data analytics or have opportunities for collaboration!
