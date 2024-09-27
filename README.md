@@ -3,7 +3,7 @@
 Hi, I'm Tate Kjosness 👋
 
 I'm an aspiring **Data Analyst** passionate about turning data into actionable insights. 
-I'm currently exploring data visualization, cleaning, and analysis using tools like **RStudio** and **Kaggle**.
+I'm currently exploring data visualization, cleaning, and analysis using tools like **RStudio**, **Google Sheets**, and **Kaggle**.
 
 
 ## Projects
