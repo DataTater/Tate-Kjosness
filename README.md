@@ -10,6 +10,8 @@ I'm currently exploring data visualization, cleaning, and analysis using tools l
 
 Here are a few of my recent data visualizations:
 
+- **[Interactive Conservation Status of Mammals in US National Parks](https://public.tableau.com/app/profile/tate.kjosness/viz/ConservationStatusofMammalsinUSNationalParks/Sheet1)**
+- **[US National Park Size Bubble Chart](https://public.tableau.com/app/profile/tate.kjosness/viz/USNationalParkSizeMap/Sheet2)**
 - **[National Parks Visitor Analysis](https://github.com/DataTater/Tate-Kjosness/blob/main/National%20Parks%20visitor%20numbers%202021.png)**
 - **[Interactive Conservation Status of Mammals in US National Parks](https://public.tableau.com/app/profile/tate.kjosness/viz/ConservationStatusofMammalsinUSNationalParks/Sheet1)**
 - **[National Park Moose Adundance](https://github.com/DataTater/Tate-Kjosness/blob/main/Moose%20Abundance%20by%20National%20Park.png)**
