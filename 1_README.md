@@ -12,6 +12,7 @@ Here are a few of my recent data visualizations:
 
 - **[Conservation Status of Mammals in US National Parks 2016](https://public.tableau.com/app/profile/tate.kjosness/viz/ConservationStatusofMammalsinUSNationalParks/Sheet1)**
 - **[US National Park Size Bubble Chart](https://public.tableau.com/app/profile/tate.kjosness/viz/USNationalParkSizeMap/Sheet2)**
+- **[U.S. News & World Report's 2017 National Universities Rankings and Tuition](https://public.tableau.com/app/profile/tate.kjosness/viz/U_S_NewsWorldReports2017NationalUniversitiesRankingsandTuition/Sheet1)**
 - **[National Parks Visitor Analysis 2016](https://github.com/DataTater/Tate-Kjosness/blob/main/National%20Parks%20visitor%20numbers%202021.png)**
 - **[2021 Happiness Index by Country](https://public.tableau.com/app/profile/tate.kjosness/viz/2021HappinessIndexbyCountry/Sheet1)**
 - **[2023 NCAA Football Offensive and Defensive Ranks vs Win/Loss](https://public.tableau.com/app/profile/tate.kjosness/viz/2023NCAAFootballOffensiveandDefensiveRanksvsWinLoss/Sheet1)**
