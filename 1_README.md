@@ -20,6 +20,8 @@ Here are a few of my recent data visualizations:
 - **[Top 21 Countries by Forest Coverage (1990-2020)](https://public.tableau.com/app/profile/tate.kjosness/viz/Top21CountriesbyForestCoverage1990-2020/Sheet1)**
 - **[US Flight Fare vs Passenger 1996-2023](https://public.tableau.com/app/profile/tate.kjosness/viz/USFlightFarevsPassenger1996-2023/Sheet1)**
 - **[2014 South American Population Heat Map](https://public.tableau.com/app/profile/tate.kjosness/viz/2014SouthAmericanPopulationHeatMap/Sheet1)**
+- **[Texas Electricity Usage 2019 by Region](https://<your-github-username>.github.io/<repository-name>/Texas_Electricity_Usage_2019_By_Region.html
+)**
 - **[National Park Grizzly Bear Adundance 2016](https://github.com/DataTater/Tate-Kjosness/blob/main/Grizzly%20Bear%20Abundance%20by%20National%20Park.png)**
 - **[Bald Eagle Seasonality By National Park 2016](https://github.com/DataTater/Tate-Kjosness/blob/main/Bald%20Eagle%20Seasonality%20By%20National%20Park.png)**
 - **[Contintenal US National Parks By Size](https://github.com/DataTater/Tate-Kjosness/blob/main/Contintenal%20US%20National%20Parks%20By%20Size.png)**
