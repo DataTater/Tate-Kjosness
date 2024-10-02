@@ -23,6 +23,7 @@ Here are a few of my recent data visualizations:
 - **[National Park Grizzly Bear Adundance 2016](https://github.com/DataTater/Tate-Kjosness/blob/main/Grizzly%20Bear%20Abundance%20by%20National%20Park.png)**
 - **[Bald Eagle Seasonality By National Park 2016](https://github.com/DataTater/Tate-Kjosness/blob/main/Bald%20Eagle%20Seasonality%20By%20National%20Park.png)**
 - **[Contintenal US National Parks By Size](https://github.com/DataTater/Tate-Kjosness/blob/main/Contintenal%20US%20National%20Parks%20By%20Size.png)**
+- **[Texas Electricity Usage by Region 2019](https://github.com/DataTater/Tate-Kjosness/blob/main/TexasElectricityUsageByRegion2019.png)**
 - **[Correlation Between Wins and Offensive Yards in 2014 NCAA Football Season](https://github.com/DataTater/Tate-Kjosness/blob/main/Correlation%20Between%20Wins%20and%20Offensive%20Yards.png)**
 - More coming soon!
 
