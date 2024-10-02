@@ -19,6 +19,7 @@ Here are a few of my recent data visualizations:
 - **[US Renewable Energy Consumption](https://public.tableau.com/app/profile/tate.kjosness/viz/USRenewableEnergyConsumption/Sheet1)**
 - **[Top 21 Countries by Forest Coverage (1990-2020)](https://public.tableau.com/app/profile/tate.kjosness/viz/Top21CountriesbyForestCoverage1990-2020/Sheet1)**
 - **[US Flight Fare vs Passenger 1996-2023](https://public.tableau.com/app/profile/tate.kjosness/viz/USFlightFarevsPassenger1996-2023/Sheet1)**
+**[Exploring BMI: Data Visual Insights](https://github.com/DataTater/Tate-Kjosness/blob/main/BMI%20Class%20Frequency.png)(https://github.com/DataTater/Tate-Kjosness/blob/main/BMI%20vs%20Age.png)(https://public.tableau.com/app/profile/tate.kjosness/viz/BMIAnalysis_17279021265510/Sheet1)**
 - **[2014 South American Population Heat Map](https://public.tableau.com/app/profile/tate.kjosness/viz/2014SouthAmericanPopulationHeatMap/Sheet1)**
 - **[Range of Climate Variables in Major US Cities (Jan–Jun 2024)](https://public.tableau.com/app/profile/tate.kjosness/viz/RangeofClimateVariablesinMajorUSCitiesJanJun2024/Sheet1#1)**
 - **[National Park Grizzly Bear Adundance 2016](https://github.com/DataTater/Tate-Kjosness/blob/main/Grizzly%20Bear%20Abundance%20by%20National%20Park.png)**
